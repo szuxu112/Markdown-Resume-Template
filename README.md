@@ -4,13 +4,13 @@
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 年 龄：25  
-* 手 机：18475810405 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; &emsp;&emsp;&emsp; &emsp; 邮 箱：1986124303@qq.com    
-* 专 业：电子信息 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;岗 位：算法工程师
+* 性 别：男          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 年 龄：25  
+* 手 机：18475810405 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;             邮 箱：1986124303@qq.com    
+* 专 业：电子信息    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;       岗 位：算法工程师
 
 ## 工作及教育经历
     
-* 深圳大学&emsp;&emsp;&emsp;&emsp;&emsp;2021.9至今&emsp;&emsp;&emsp;&emsp;&emsp;   电子信息专业-研究生         
+* 深圳大学&emsp;&emsp;&emsp;&emsp;&emsp;2021.9~至今  &emsp;&emsp;&emsp;&emsp;&emsp; 电子信息专业-研究生         
 * 深圳大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2021.7&emsp;&emsp;&emsp;&emsp;&emsp; 自动化专业-本科  
 
 ## 专业技能
@@ -21,18 +21,22 @@
 
 ## 项目经历
 
-1. 公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512 
+1. 深圳大学本科毕业设计 - 板球控制系统 - 独立开发 - 202103- 202106 
     * 具体功能 
     * 运用了那些技术，技术难点是
     * 效果如何
     * demo演示地址，github地址 
 
-2. 公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401 
+2. 深圳大学研究生项目 - 基于双目相机的温室植株三维重建 - 独立开发 - 201309- 201401 
     * 具体功能 
     * 运用了那些技术，技术难点是
     * 效果如何
     * demo演示地址，github地址 
-
+3. 深圳大学研究生项目 - 基于深度相机的温室植株三维重建 - 201309- 201401 
+    * 具体功能 
+    * 运用了那些技术，技术难点是
+    * 效果如何
+    * demo演示地址，github地址 
 ## 获奖经历
 * XXX 优秀新人
 * XXX 学生社团优秀干部
