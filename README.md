@@ -4,8 +4,8 @@
 
 ## 个人信息 
 
-* 性 别：男          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 年 龄：25  
-* 手 机：18475810405 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;             邮 箱：1986124303@qq.com    
+* 性 别：男   &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 年 龄：25  
+* 手 机：18475810405 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;             邮 箱：1986124303@qq.com    
 * 专 业：电子信息    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;       岗 位：算法工程师
 
 ## 工作及教育经历
