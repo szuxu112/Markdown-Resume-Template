@@ -4,18 +4,18 @@
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
-* 手 机：18475810405 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：1986124303@qq.com    
-* 专 业：电子信息 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：算法工程师
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 年 龄：25  
+* 手 机：18475810405 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; &emsp;&emsp;&emsp; &emsp; 邮 箱：1986124303@qq.com    
+* 专 业：电子信息 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;岗 位：算法工程师
 
 ## 工作及教育经历
     
-* 深圳大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 电子信息专业-研究生         
-* 深圳大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 自动化专业-本科  
+* 深圳大学&emsp;&emsp;&emsp;&emsp;&emsp;2021.9至今.7&emsp;&emsp;&emsp;&emsp;  电子信息专业-研究生         
+* 深圳大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2021.7&emsp;&emsp;&emsp;&emsp; 自动化专业-本科  
 
 ## 专业技能
 
-* 掌握 C++，了解 Python、PHP 等编程语言
+* 掌握 C++，了解 Python 编程语言
 * 掌握基础数据结构和算法的基本原理
 
 
@@ -61,10 +61,6 @@
 
 更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复：「666」可以获得所有算法专题原创PDF。
 
-
-**「代码随想录」每天准时为你推送一篇经典面试题目，帮你梳理算法知识体系，轻松学习算法！**，并且公众号里有大量学习资源，也有我自己的学习心得和方法总结，更有上万录友们在这里打卡学习。
-
-**来看看就知道了，你会发现相见恨晚！**
 
 <a name="公众号"></a>
 
