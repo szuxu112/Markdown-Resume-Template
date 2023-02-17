@@ -10,8 +10,8 @@
 
 ## 工作及教育经历
     
-* 深圳大学&emsp;&emsp;&emsp;&emsp;&emsp;2021.9至今.7&emsp;&emsp;&emsp;&emsp;  电子信息专业-研究生         
-* 深圳大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2021.7&emsp;&emsp;&emsp;&emsp; 自动化专业-本科  
+* 深圳大学&emsp;&emsp;&emsp;&emsp;&emsp;2021.9至今&emsp;&emsp;&emsp;&emsp;&emsp;   电子信息专业-研究生         
+* 深圳大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2021.7&emsp;&emsp;&emsp;&emsp;&emsp; 自动化专业-本科  
 
 ## 专业技能
 
